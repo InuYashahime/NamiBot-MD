@@ -11,7 +11,7 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a para GataBot-MD | Add the numbers to be Owner for GataBot-MD ⋅.━━━━ ⊰  
 
 global.owner = [
-["59177601773", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+["994406674437", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
 ["59169082575", '𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 𝙂𝘽 💖🐈', true], 
 ["5492266466080"], 
 ["593968585383"], 
@@ -27,7 +27,7 @@ global.owner = [
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
 global.botNumberCode = "+994406674437" //Ejemplo: +59309090909
-global.confirmCode = ""
+global.confirmCode = "+994406674437"
 
 global.mods = []
 global.prems = ["528451003894"]
@@ -42,7 +42,7 @@ global.Key360 = ["964f-0c75-7afc"]
 //  en = English         pt = Português 
 //  ar = عرب             hi = Hindi Language
 
-global.lenguajeGB = ar //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es //Idioma de GataBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
